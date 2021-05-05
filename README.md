@@ -1,0 +1,9 @@
+- 👋 Hi, I’m Hamza Riaz recently completed Msc IT from Qau. Currently enrolled in 3rd quarter of Piaic Aic.
+- 👀 I’m interested in data science and related fields ...
+- 🌱 I’m currently working in software firm as reporting analyst ...
+- 📫 you can ping me at whatsapp : +92-3205059559 or Email:  hamzariaz813@gmail.com ...
+
+<!---
+SheikhHamxa/SheikhHamxa is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+You can click the Preview link to take a look at your changes.
+--->
